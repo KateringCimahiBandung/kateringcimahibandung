@@ -1,4 +1,4 @@
-# Katering Mueah Cimahi Bandung
+# Katering Cimahi Bandung
 
 **Enak • Higienis • Harga Bersahabat**
 
@@ -24,16 +24,14 @@ Katering Cimahi Bandung melayani kebutuhan katering untuk berbagai acara di wila
 
 Untuk pemesanan dan konsultasi, hubungi kami melalui WhatsApp:
 
-**0882-2918-2855**
+**[0882-2918-2855](https://wa.me/6288229182855)**
 
 ## Media Sosial Resmi
 
-| Platform | Link |
-|----------|------|
-| Facebook | Katering Cimahi Bandung |
-| Instagram | @kateringmurahcimahi |
-| TikTok | @kateringmurahcimahi |
-| YouTube | Katering Cimahi Bandung |
+- Facebook: https://www.facebook.com/Katering.Cimahi.Bandung/
+- Instagram: https://www.instagram.com/kateringmurahcimahi
+- TikTok: https://www.tiktok.com/@kateringmurahcimahi
+- YouTube: https://www.youtube.com/@KateringCimahiBandung
 
 ---
 
