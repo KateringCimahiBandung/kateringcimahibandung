@@ -1,16 +1,40 @@
-## Hi there 👋
+# Katering Mueah Cimahi Bandung
 
-<!--
-**KateringCimahiBandung/kateringcimahibandung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Enak • Higienis • Harga Bersahabat**
 
-Here are some ideas to get you started:
+Katering Cimahi Bandung melayani kebutuhan katering untuk berbagai acara di wilayah Cimahi, Bandung, dan Kabupaten Bandung. Kami menyediakan katering prasmanan, katering pernikahan, katering khitanan, nasi box, serta katering untuk acara lainnya.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Layanan
+
+- Katering Prasmanan
+- Katering Pernikahan
+- Katering Khitanan
+- Nasi Box
+- Katering untuk acara lainnya
+
+## Wilayah Pelayanan
+
+- Cimahi
+- Bandung
+- Kabupaten Bandung
+
+## Hubungi Kami
+
+Untuk pemesanan dan konsultasi, hubungi kami melalui WhatsApp:
+
+**0882-2918-2855**
+
+## Media Sosial Resmi
+
+| Platform | Link |
+|----------|------|
+| Facebook | Katering Cimahi Bandung |
+| Instagram | @kateringmurahcimahi |
+| TikTok | @kateringmurahcimahi |
+| YouTube | Katering Cimahi Bandung |
+
+---
+
+© Katering Cimahi Bandung
