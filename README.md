@@ -29,7 +29,7 @@ Untuk pemesanan dan konsultasi, hubungi kami melalui WhatsApp:
 ## Media Sosial Resmi
 
 - Facebook: https://www.facebook.com/Katering.Cimahi.Bandung/
-- Instagram: https://www.instagram.com/kateringmurahcimahi
+- Instagram: https://www.instagram.com/kateringcimahi
 - TikTok: https://www.tiktok.com/@kateringmurahcimahi
 - YouTube: https://www.youtube.com/@KateringCimahiBandung
 
